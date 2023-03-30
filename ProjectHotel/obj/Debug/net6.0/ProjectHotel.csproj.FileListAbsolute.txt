@@ -1,0 +1,15 @@
+C:\Users\Leonardo\source\repos\HotelProjeto\ProjectHotel\ProjectHotel\bin\Debug\net6.0\ProjectHotel.exe
+C:\Users\Leonardo\source\repos\HotelProjeto\ProjectHotel\ProjectHotel\bin\Debug\net6.0\ProjectHotel.deps.json
+C:\Users\Leonardo\source\repos\HotelProjeto\ProjectHotel\ProjectHotel\bin\Debug\net6.0\ProjectHotel.runtimeconfig.json
+C:\Users\Leonardo\source\repos\HotelProjeto\ProjectHotel\ProjectHotel\bin\Debug\net6.0\ProjectHotel.dll
+C:\Users\Leonardo\source\repos\HotelProjeto\ProjectHotel\ProjectHotel\bin\Debug\net6.0\ProjectHotel.pdb
+C:\Users\Leonardo\source\repos\HotelProjeto\ProjectHotel\ProjectHotel\obj\Debug\net6.0\ProjectHotel.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\HotelProjeto\ProjectHotel\ProjectHotel\obj\Debug\net6.0\ProjectHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\source\repos\HotelProjeto\ProjectHotel\ProjectHotel\obj\Debug\net6.0\ProjectHotel.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\HotelProjeto\ProjectHotel\ProjectHotel\obj\Debug\net6.0\ProjectHotel.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\HotelProjeto\ProjectHotel\ProjectHotel\obj\Debug\net6.0\ProjectHotel.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\HotelProjeto\ProjectHotel\ProjectHotel\obj\Debug\net6.0\ProjectHotel.dll
+C:\Users\Leonardo\source\repos\HotelProjeto\ProjectHotel\ProjectHotel\obj\Debug\net6.0\refint\ProjectHotel.dll
+C:\Users\Leonardo\source\repos\HotelProjeto\ProjectHotel\ProjectHotel\obj\Debug\net6.0\ProjectHotel.pdb
+C:\Users\Leonardo\source\repos\HotelProjeto\ProjectHotel\ProjectHotel\obj\Debug\net6.0\ProjectHotel.genruntimeconfig.cache
+C:\Users\Leonardo\source\repos\HotelProjeto\ProjectHotel\ProjectHotel\obj\Debug\net6.0\ref\ProjectHotel.dll
